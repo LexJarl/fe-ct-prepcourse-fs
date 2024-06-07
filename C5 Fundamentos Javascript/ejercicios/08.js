@@ -6,7 +6,7 @@ function esNumeroEntero(numero) {
   // 24 ---> true 
   // -1212 ---> true 
   // 121.212 ---> false 
-  // Tu código:
+  // Tu código: (5); = true
 }
 
 module.exports = esNumeroEntero;
